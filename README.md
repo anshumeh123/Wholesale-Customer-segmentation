@@ -5,6 +5,7 @@
 This project demonstrates end-to-end customer segmentation using K-Means Clustering, data preprocessing, and exploratory data analysis (EDA) to uncover meaningful insights from wholesale customer purchasing data.
 
 💡 Business Impact
+
 📌 Optimized Inventory & Demand Forecasting: Identifies key spending behaviors to improve stock management.
 
 📌 Personalized Marketing Strategies: Segments customers based on their purchasing habits to maximize engagement.
@@ -12,6 +13,7 @@ This project demonstrates end-to-end customer segmentation using K-Means Cluster
 📌 Revenue Growth: Helps businesses allocate resources efficiently by targeting high-value customer groups.
 
 🛠️ Key Techniques Used
+
 ✔️ Data Cleaning & Outlier Handling (IQR-based filtering, normalization)
 
 ✔️ Exploratory Data Analysis (EDA) (Visualizations, correlation matrix)
@@ -23,6 +25,7 @@ This project demonstrates end-to-end customer segmentation using K-Means Cluster
 ✔️ Business-Centric Data Storytelling (Translating insights into strategic recommendations)
 
 📊 Key Findings
+
 ✅ Identified 5 key customer segments in Horeca (Hotels, Restaurants, Cafes) & 4 in Retail, each with distinct purchasing behaviors.
 
 ✅ Revealed high-value customers & potential outliers for premium targeting.
