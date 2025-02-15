@@ -20,7 +20,7 @@
 This project leverages **K-Means Clustering** and **EDA (Exploratory Data Analysis)** to segment customers, optimize marketing strategies, and streamline inventory management.  
 
 ### 🔍 **Problem Statement**  
-**Can we segment wholesale customers based on their purchasing behavior to improve business decisions?**  
+**How can we segment wholesale customers based on their purchasing behavior to improve business decisions?**  
 
 ### 📌 **Dataset Information**
 - **440 clients** across **two business channels**:  
